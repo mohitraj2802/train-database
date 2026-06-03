@@ -1,0 +1,137 @@
+[
+  {
+    "from": "Patna",
+    "to": "New Delhi",
+    "name": "Rajdhani Express",
+    "number": "12309",
+    "type": "Superfast",
+    "days": "Daily",
+    "via": ["Kanpur", "Prayagraj", "Mughalsarai"]
+  },
+  {
+    "from": "Patna",
+    "to": "New Delhi",
+    "name": "Patna Rajdhani Express",
+    "number": "12310",
+    "type": "Superfast",
+    "days": "Daily",
+    "via": ["Kanpur", "Prayagraj"]
+  },
+  {
+    "from": "Patna",
+    "to": "Mumbai LTT",
+    "name": "Patna LTT Express",
+    "number": "13201",
+    "type": "Express",
+    "days": "Mon Wed Fri",
+    "via": ["Bhopal", "Itarsi", "Jabalpur"]
+  },
+  {
+    "from": "Patna",
+    "to": "Bangalore",
+    "name": "Patna Yesvantpur Express",
+    "number": "22351",
+    "type": "Express",
+    "days": "Weekly",
+    "via": ["Nagpur", "Pune"]
+  },
+  {
+    "from": "Patna",
+    "to": "Howrah",
+    "name": "Howrah Rajdhani Express",
+    "number": "12302",
+    "type": "Superfast",
+    "days": "Daily",
+    "via": ["Bokaro", "Dhanbad"]
+  },
+  {
+    "from": "Patna",
+    "to": "Ahmedabad",
+    "name": "Patna Ahmedabad Express",
+    "number": "19422",
+    "type": "Express",
+    "days": "Weekly",
+    "via": ["Bhopal", "Indore", "Ratlam"]
+  },
+  {
+    "from": "Darbhanga",
+    "to": "New Delhi",
+    "name": "Bihar Sampark Kranti Express",
+    "number": "12566",
+    "type": "Superfast",
+    "days": "Daily",
+    "via": ["Sitamarhi", "Muzaffarpur", "Kanpur"]
+  },
+  {
+    "from": "Muzaffarpur",
+    "to": "Bangalore",
+    "name": "Muzaffarpur Yesvantpur Express",
+    "number": "15227",
+    "type": "Express",
+    "days": "Weekly",
+    "via": ["Patna", "Nagpur", "Secunderabad"]
+  },
+  {
+    "from": "Gaya",
+    "to": "New Delhi",
+    "name": "Mahabodhi Express",
+    "number": "12397",
+    "type": "Superfast",
+    "days": "Daily",
+    "via": ["Mughalsarai", "Kanpur"]
+  },
+  {
+    "from": "Bhagalpur",
+    "to": "New Delhi",
+    "name": "Bhagalpur Anand Vihar Express",
+    "number": "12367",
+    "type": "Superfast",
+    "days": "Daily",
+    "via": ["Patna", "Kanpur"]
+  },
+  {
+    "from": "Bhagalpur",
+    "to": "Howrah",
+    "name": "Vananchal Express",
+    "number": "13403",
+    "type": "Express",
+    "days": "Daily",
+    "via": ["Malda", "Banka"]
+  },
+  {
+    "from": "Patna",
+    "to": "Darbhanga",
+    "name": "Intercity Express",
+    "number": "13226",
+    "type": "Express",
+    "days": "Daily",
+    "via": ["Samastipur"]
+  },
+  {
+    "from": "Patna",
+    "to": "Gaya",
+    "name": "Intercity Express",
+    "number": "12345",
+    "type": "Passenger",
+    "days": "Daily",
+    "via": ["Jehanabad"]
+  },
+  {
+    "from": "Patna",
+    "to": "Jaynagar",
+    "name": "Passenger Special",
+    "number": "55501",
+    "type": "Passenger",
+    "days": "Daily",
+    "via": ["Madhubani", "Darbhanga"]
+  },
+  {
+    "from": "Muzaffarpur",
+    "to": "Sitamarhi",
+    "name": "Passenger Express",
+    "number": "55211",
+    "type": "Passenger",
+    "days": "Daily",
+    "via": ["Runni Saidpur"]
+  }
+]
